@@ -23,11 +23,11 @@ The portfolio was built in a responsive fashion able to adapt to differents view
 ![screenshot](assets/images/alain_picture_portfolio.jpg)
 ![screenshot](assets/images/background1.jpg)
 ![screenshot](assets/images/background2.jpg)
-![screenshot](assets/images/horiseon.jpg)
+![screenshot](assets/images/homepage.jpg)
 ![screenshot](assets/images/webpage.jpg)
 
 ##### Link
-https://alcharl88.github.io/Built-a-Portfolio/
+https://alcharl88.github.io/Portfolio/
 
 ##### Credit
 Alain Tagne
