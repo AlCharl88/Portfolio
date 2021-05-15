@@ -12,10 +12,10 @@ A potentiel employer can view my deployed portfolio of projects, review samples 
 
  The differents sections developped in my portfolio are:
 
-A header Section consisting of My name, and links to sections about Me, my Project, and my contact information.If I click on the navigation links in the header section, then the UI scrolls to the corresponding section.
+A header Section consisting of My name, and links to sections about Me, my Project, my contact information and a downlable resume.If I click on the navigation links in the header section, then the UI scrolls to the corresponding section.
 An About Me section where a recent photo, my skills and some information about me are displayed. 
-A section dedicated to projects where I present the first project (previous homework) with an image larger than the others project's images. The name (Horiseon) of the work is displayed as well as the Github and deployed links. The others images are only background and will be replaced by real projects as the classes go on. 
-A section showing my contact information, notably Email, LinkedIn and Github.
+A section dedicated to projects where I present the first project with an image larger than the others project's images. The name (SportBets) of the project is displayed as well as the Github and deployed links. The others images are only background and will be replaced by real projects as the classes go on. 
+A section showing my contact information, notably Email, LinkedIn, Github and Phone.
 The portfolio was built in a responsive fashion able to adapt to differents viewports.
 
 ##### Usage
