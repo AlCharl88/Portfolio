@@ -86,7 +86,7 @@ img {
     height: auto;
     margin: 10 30;
     border-style: solid;
-    border-radius: 20px;
+    border-radius: 5px;
     border-color: white;
 } 
 
@@ -123,7 +123,7 @@ img:hover {
 
 /* img styling */
 .Photo-P {
-    width: 300px;
+    width: 450px;
     height: auto;
 }
 
@@ -135,15 +135,20 @@ img:hover {
 /* div class=link styling */
 .links {
     text-align: center;
+    margin-bottom: 10px;
 }
 
 /* h and a tags styling */
 .rep1, .pt1 {
-   background-color: cyan;
+   /* background-color: cyan; */
    padding: 3px;
-   font-size: 20px;
+   font-size: 15px;
    color: black;
    text-decoration: none;
+}
+
+.pt1 {
+    background-color: lightblue;
 }
 
 /* flexbox container MyContact styling */
@@ -190,7 +195,7 @@ img:hover {
    
 @media screen and (max-width: 768px) {
     img, .Photo-Alain, .Photo-P, .Photo-P1 {
-        width: 100%;
+        width: 95%;
         height: auto
     }
 

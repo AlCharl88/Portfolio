@@ -18,17 +18,18 @@ A section dedicated to projects where I present the first project with an image 
 A section showing my contact information, notably Email, LinkedIn, Github and Phone.
 The portfolio was built in a responsive fashion able to adapt to differents viewports.
 
-##### Usage
+##### Technologies used
+HTML, CSS
+
+###### Usage
 
 ![screenshot](assets/images/alain_picture_portfolio.jpg)
-![screenshot](assets/images/background1.jpg)
-![screenshot](assets/images/background2.jpg)
 ![screenshot](assets/images/homepage.jpg)
-![screenshot](assets/images/webpage.jpg)
+![screenshot](assets/images/weather_dashboard.png)
+![screenshot](assets/images/Code_Quiz.png)
 
-##### Link
+###### Link and Credit
 https://alcharl88.github.io/Portfolio/
 
-##### Credit
 Alain Tagne
 https://github.com/AlCharl88
