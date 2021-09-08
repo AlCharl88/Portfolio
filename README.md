@@ -25,6 +25,7 @@ HTML, CSS
 
 ![screenshot](assets/images/alain_picture_portfolio.jpg)
 ![screenshot](assets/images/homepage.jpg)
+![screenshot](assets/images/downtime.png)
 ![screenshot](assets/images/weather_dashboard.png)
 ![screenshot](assets/images/Code_Quiz.png)
 
